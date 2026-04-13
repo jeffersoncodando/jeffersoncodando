@@ -5,14 +5,14 @@ I'm passionate about technology and currently focusing on mastering the **Java e
 
 ### 🛠 Tech Stack & Tools
 - **Language:** Java (Logic, OOP, Collections)
-- **IDE:** IntelliJ IDEA
+- **IDE:** IntelliJ IDEA (Migrating from Eclipse)
 - **Version Control:** Git & GitHub
-- **Current Focus:** Java Fundamentals & OOP
+- **Current Goal:** Transitioning to Back-end roles with Spring Boot.
 
 ### 📈 What I'm working on
-- 🌍 Translating and refactoring my Java study exercises to English.
+- 🌍 Translating and refactoring my Java fundamentals path to English.
 - 🏗 Organizing my coding evolution through structured repositories.
-- 📚 Mastering Object-Oriented Programming (OOP) principles.
+- 📚 Studying Object-Oriented Programming (OOP) principles.
 
 ---
-*"One commit at a time, building my path into tech."*
+*"One commit a day keeps the imposter syndrome away."*
