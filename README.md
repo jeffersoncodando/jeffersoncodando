@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Jefferson! 👋
 
-<!--
-**jeffersoncodando/jeffersoncodando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Customer Care Analyst transitioning into **Back-end Development**. 
+I'm passionate about technology and currently focusing on mastering the **Java ecosystem**.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Tools
+- **Language:** Java (Logic, OOP, Collections)
+- **IDE:** IntelliJ IDEA
+- **Version Control:** Git & GitHub
+- **Current Focus:** Java Fundamentals & OOP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 What I'm working on
+- 🌍 Translating and refactoring my Java study exercises to English.
+- 🏗 Organizing my coding evolution through structured repositories.
+- 📚 Mastering Object-Oriented Programming (OOP) principles.
+
+---
+*"One commit at a time, building my path into tech."*
