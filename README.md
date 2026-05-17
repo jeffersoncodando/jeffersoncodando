@@ -1,18 +1,17 @@
-# Hi, I'm Jefferson! 👋
+# Olá, eu sou o Jefferson! 👋
 
-I'm a Customer Care Analyst transitioning into **Back-end Development**. 
-I'm passionate about technology and currently focusing on mastering the **Java ecosystem**.
+Sou um Analista de Customer Care focado em aprimorar minhas habilidades em tecnologia e com o objetivo de migrar para o **Desenvolvimento Back-end**. Atualmente, dedico meu tempo livre para dominar o ecossistema Java e aplicar padrões de alta qualidade de software.
 
-### 🛠 Tech Stack & Tools
-- **Language:** Java (Logic, OOP, Collections)
-- **IDE:** IntelliJ IDEA (Migrating from Eclipse)
-- **Version Control:** Git & GitHub
-- **Current Goal:** Transitioning to Back-end roles with Spring Boot.
+## 🛠️ Tecnologias & Ferramentas
 
-### 📈 What I'm working on
-- 🌍 Translating and refactoring my Java fundamentals path to English.
-- 🏗 Organizing my coding evolution through structured repositories.
-- 📚 Studying Object-Oriented Programming (OOP) principles.
+* **Linguagem:** Java (Lógica de programação, Coleções dinâmicas, Herança e Polimorfismo)
+* **IDE:** IntelliJ IDEA
+* **Controle de Versão:** Git & GitHub
+* **Objetivo Atual:** Capacitação no ecossistema Back-end com Spring Boot.
 
----
-*"One commit a day keeps the imposter syndrome away."*
+## 📈 No que estou trabalhando e aplicando hoje:
+
+* 🏗️ **Arquitetura POO:** Desenvolvendo projetos práticos com conceitos de Composição, Enumerações e Polimorfismo.
+* 🧼 **Clean Code:** Refatorando e estruturando códigos com convenções profissionais de nomenclatura (código em inglês e documentação em português).
+* 💾 **Gerenciamento de Memória:** Aplicando conceitos de imutabilidade e escopo (`static final`) para otimização de sistemas Java.
+* 📚 **Trilha de Estudos:** Mantendo o repositório `java-learning-path` como um diário cronológico da minha evolução.
