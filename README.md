@@ -1,4 +1,4 @@
-# Olá, eu sou o Jefferson! 👋
+# Olá, eu sou o Jefferson! 🤘🏻☕
 
 Sou um Analista de Customer Care focado em aprimorar minhas habilidades em tecnologia e com o objetivo de migrar para o **Desenvolvimento Back-end**. Atualmente, dedico meu tempo livre para dominar o ecossistema Java e aplicar padrões de alta qualidade de software.
 
