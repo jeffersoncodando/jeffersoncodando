@@ -1,22 +1,48 @@
 # Olá, eu sou o Jefferson! 🤘🏻☕
 
-Sou um Analista de Customer Care focado em tecnologia e com o objetivo claro de migrar para o **Desenvolvimento Back-end**. Atualmente, dedico meu tempo livre para dominar o ecossistema Java, aplicando padrões de arquitetura limpa e alta qualidade de software.
+Sou Analista de Customer Care e estou construindo minha carreira como Desenvolvedor Java.
+
+Este GitHub reúne minha jornada de estudos em Java, desde os fundamentos da linguagem até projetos que demonstram meu aprendizado ao longo do tempo.
+
+---
+
+## 🚀 Atualmente estudando
+
+- ✅ Fundamentos da linguagem Java
+- ✅ Programação Orientada a Objetos (POO)
+- ✅ Collections, Generics e Tratamento de Exceções
+- ✅ Programação Funcional e Expressões Lambda
+- 🔄 Próximo passo: JDBC
+- ⏳ JPA / Hibernate
+- ⏳ Spring Boot
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-*   **Linguagem:** Java (Lógica, POO avançada, Generics, Collections dinâmicas como Set e Map, e File I/O)
-*   **Boas Práticas:** Tratamento robusto de exceções e programação orientada a contratos (Interfaces)
-*   **IDE:** IntelliJ IDEA
-*   **Controle de Versão:** Git & GitHub
-*   **Próximo Passo:** Desenvolvimento de APIs robustas com o ecossistema **Spring Boot**
+- Java
+- Git & GitHub
+- IntelliJ IDEA
 
 ---
 
-## 📈 No que estou trabalhando e aplicando hoje:
+## 📂 Repositórios em destaque
 
-*   **🏗️ Arquitetura Orientada a Objetos:** Desenvolvendo projetos práticos aplicando composição, herança, polimorfismo e desacoplamento de código através de interfaces.
-*   **🧼 Clean Code & Padrões Globais:** Refatorando códigos antigos e estruturando novos projetos utilizando convenções profissionais de nomenclatura totalmente em inglês.
-*   **💾 Gerenciamento & Resiliência:** Foco em otimização de memória (com uso de constantes e coleções eficientes) e construção de sistemas resilientes que não quebram em produção (tratamento de erros profissional).
-*   **📚 Trilha de Estudos:** Utilizo o repositório [java-learning-path](https://github.com/jeffersoncodando/java-learning-path) como um diário de bordo cronológico e detalhado de toda a minha evolução técnica.
+📘 **Java Learning Path**
+
+Meu principal repositório de estudos, onde documento toda a minha evolução durante a formação em Java.
+
+Cada módulo representa uma etapa da minha jornada de aprendizado, abordando desde os fundamentos da linguagem até tecnologias utilizadas no desenvolvimento de aplicações Java.
+
+---
+
+## 🎯 Objetivo
+
+Meu objetivo é conquistar minha primeira oportunidade como desenvolvedor Java, evoluindo continuamente e construindo uma base sólida em programação, boas práticas e arquitetura de software.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: [Jefferson Fernando](https://www.linkedin.com/in/jefferson-fernando-a16941142/)
+- Email: jefferson.fernandocg@gmail.com
