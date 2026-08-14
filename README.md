@@ -12,8 +12,8 @@ Este GitHub reúne minha jornada de estudos em Java, desde os fundamentos da lin
 - ✅ Programação Orientada a Objetos (POO)
 - ✅ Collections, Generics e Tratamento de Exceções
 - ✅ Programação Funcional e Expressões Lambda
-- 🔄 Próximo passo: JDBC
-- ⏳ JPA / Hibernate
+- ✅ JDBC (conexão com banco de dados, padrão DAO, PreparedStatement)
+- 🔄 Próximo passo: JPA / Hibernate
 - ⏳ Spring Boot
 
 ---
@@ -21,6 +21,8 @@ Este GitHub reúne minha jornada de estudos em Java, desde os fundamentos da lin
 ## 🛠️ Tecnologias & Ferramentas
 
 - Java
+- JDBC
+- MySQL
 - Git & GitHub
 - IntelliJ IDEA
 
@@ -28,11 +30,13 @@ Este GitHub reúne minha jornada de estudos em Java, desde os fundamentos da lin
 
 ## 📂 Repositórios em destaque
 
-📘 **Java Learning Path**
+📘 **[Java Learning Path](https://github.com/jeffersoncodando/java-learning-path)**
 
-Meu principal repositório de estudos, onde documento toda a minha evolução durante a formação em Java.
+Meu principal repositório de estudos, onde documento toda a minha evolução durante a formação em Java. Cada módulo representa uma etapa da minha jornada de aprendizado, abordando desde os fundamentos da linguagem até tecnologias utilizadas no desenvolvimento de aplicações Java.
 
-Cada módulo representa uma etapa da minha jornada de aprendizado, abordando desde os fundamentos da linguagem até tecnologias utilizadas no desenvolvimento de aplicações Java.
+🗄️ **[Demo DAO JDBC](https://github.com/jeffersoncodando/demo-dao-jdbc)**
+
+Meu primeiro projeto aplicado depois de concluir o módulo de JDBC. Implementa o padrão DAO manualmente, com conexão a um banco MySQL, operações de CRUD e tratamento de exceções customizadas.
 
 ---
 
