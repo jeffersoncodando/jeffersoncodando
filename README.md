@@ -13,16 +13,23 @@ Este GitHub reúne minha jornada de estudos em Java, desde os fundamentos da lin
 - ✅ Collections, Generics e Tratamento de Exceções
 - ✅ Programação Funcional e Expressões Lambda
 - ✅ JDBC (conexão com banco de dados, padrão DAO, PreparedStatement)
-- 🔄 Próximo passo: JPA / Hibernate
-- ⏳ Spring Boot
+- ✅ JPA / Hibernate
+- 🔄 Spring Boot com APIs REST (em andamento — commitando progressivamente conforme avanço no curso)
+- ⏳ MongoDB
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
 - Java
+- Spring Boot
+- JPA / Hibernate
 - JDBC
 - MySQL
+- H2 Database
+- Maven
+- Postman
+- Apache Tomcat
 - Git & GitHub
 - IntelliJ IDEA
 
@@ -37,6 +44,10 @@ Meu principal repositório de estudos, onde documento toda a minha evolução du
 🗄️ **[Demo DAO JDBC](https://github.com/jeffersoncodando/demo-dao-jdbc)**
 
 Meu primeiro projeto aplicado depois de concluir o módulo de JDBC. Implementa o padrão DAO manualmente, com conexão a um banco MySQL, operações de CRUD e tratamento de exceções customizadas.
+
+🍃 **[Spring Boot Course Project](https://github.com/jeffersoncodando/spring-boot-course-project)**
+
+Projeto do módulo de Spring Boot com JPA/Hibernate, commitado progressivamente, vídeo por vídeo, conforme avanço no curso — documentando a evolução em tempo real.
 
 ---
 
